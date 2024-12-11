@@ -5,12 +5,14 @@ This github repository is all of the code used in to the paper Building Machine 
 
 To get started, fork this repository onto your own GitHub 
 Once in desired directory use command
-> git clone https://github.com/JackieUltra/ML_Final.git
+$> git clone https://github.com/JackieUltra/ML_Final.git
 
 Once forked create a virtual environment in the file using the command
-> conda env create -f Karim_env.yaml
+$> conda env create -f Karim_env.yaml
+
 then 
-> conda activate Karim_env
+
+$> conda activate Karim_env
 
 Once completed you will be able to run all code in the Karim_hERG.ipynb however please run all codeblocks in order or they will not work. Optional code blocks are specifcally stated everything else is mandatory to run. 
 NOTE: some blocks may take up to 40 minutes on a laptop.
