@@ -1,4 +1,4 @@
-# ML Final project CDD203
+# ML Final Project CDD203
 Comparing Different ML models on Toxicity Dataset
 
 This github repo is all of the code used in to the paper Building Machine Learning Models to Determine hERG Blockade Potential of Compounds
