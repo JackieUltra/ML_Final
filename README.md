@@ -8,6 +8,7 @@ Once in desired directory use command
 $> git clone https://github.com/JackieUltra/ML_Final.git
 
 Once forked create a virtual environment in the file using the command
+
 $> conda env create -f Karim_env.yaml
 
 then 
