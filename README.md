@@ -3,8 +3,8 @@ Comparing Different ML models on Toxicity Dataset
 
 This github repository is all of the code used in to the paper Building Machine Learning Models to Determine hERG Blockade Potential of Compounds
 
-To get started, fork this repository onto your own GitHub 
-Once in desired directory use command
+To get started, fork this repository onto your own GitHub, once in desired directory use command
+
 $> git clone https://github.com/JackieUltra/ML_Final.git
 
 Once forked create a virtual environment in the file using the command
