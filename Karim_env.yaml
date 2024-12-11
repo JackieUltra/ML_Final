@@ -9,6 +9,7 @@ dependencies:
   - scikit-learn=1.2.2 
   - numpy=1.23.5
   - matplotlib=3.7.1
+  - notebook 
   - pip
   - pip:
     - rdkit==2023.3.1
